@@ -1,2 +1,2 @@
-# nextjs-dashboard
-Meu primeiro projeto de estudo com nextjs
+# Next.js Dashboard
+Meu primeiro contato com o next.js
